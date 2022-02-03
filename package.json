@@ -1,8 +1,8 @@
 {
-  "name": "print",
+  "name": "print-debugging",
   "version": "1.0.0",
   "description": "Lightweight package to use print within js and write less console.logs.",
-  "main": "index.js",
+  "main": "./src/index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

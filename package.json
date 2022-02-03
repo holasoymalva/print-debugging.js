@@ -1,0 +1,22 @@
+{
+  "name": "print",
+  "version": "1.0.0",
+  "description": "Lightweight package to use print within js and write less console.logs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvabombom/print.js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "@malvabombom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malvabombom/print.js/issues"
+  },
+  "homepage": "https://github.com/malvabombom/print.js#readme"
+}
